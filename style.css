@@ -51,6 +51,11 @@ h1{
     width: 70%;    
 }
 
+.container_contenido:hover{
+    background-color:  #3F2A0E; /* Color de fondo al pasar el ratón */
+    color: white;
+}
+
 .img_contenido{
     width: 7%;
     height: 7%;
